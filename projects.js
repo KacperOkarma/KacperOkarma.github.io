@@ -1,39 +1,39 @@
 const projects = [
     {
-        title: "\"Ciach\"",
-        image: "images/Ciach.png",
-        alt: "Screenshot from the game \"Ciach\"",
-        description: "Immersive VR sword-fighting game featuring responsive controls and realistic enemy AI based on real defensive techniques.",
-        tools: ["Unity", "C#", "VR"],
+        title: "\"Tank\"",
+        image: "images/tank.png",
+        alt: "Screenshot from the game Tank",
+        description: "An addictive tank shooting action game with outstanding controls and realistic graphics based on real military techniques.",
+        tools: ["Unity", "C#", "Blender"],
         //  link: "project-bike.html"
-        link: "https://www.youtube.com/watch?v=tB2oVVKE90A"
+        link: ""
     },
     {
-        title: "Heroes Project",
-        image: "images/HeroesProject.jpg",
-        alt: "Screenshot from the game Heroes Project",
-        description: "A turn-based strategy game inspired by Heroes of Might and Magic 3. Tough choices, short and long term consequences.",
-        tools: ["Unity", "C#"],
+        title: "Gardener",
+        image: "images/gardener.jpg",
+        alt: "Photo from the job",
+        description: "Hard work based on planting and harvesting plants while overloading the body. Work in the Netherlands inspired by the times of the Third Reich's rule over Poland and the labor camps.",
+        tools: ["Hands", "Knees"],
         //  link: "project-bike.html"
-        link: "https://store.steampowered.com/app/2522830/Heroes_Project"
+        link: ""
     },
   {
-    title: "Fortune Guesser",
-    image: "images/tarotgame.png",
-	  alt: "Screenshot from the game Fortune Guesser",
+    title: "Gymrat",
+    image: "images/gym.png",
+	  alt: "Photo from the Gym",
     description: "Narrative-driven prototype featuring quirky hand-drawn characters, branching paths, and multiple endings.",
-	  tools: ["Unity","C#", "Blender", "Trello"],
+	  tools: ["Body"],
 //  link: "project-tarot.html"
-	  link: "https://zachpetty.itch.io/fortune-guesser"
+	  link: ""
   },
     {
-        title: "\"Bike Game\"",
-        image: "images/bikegame.png",
-        alt: "Screenshot from the game \"Bike Game\"",
-        description: "A fast-paced, horror-themed mountain biking game prototype created for Serenity Forge through the RealXP Lab program.",
-        tools: ["Unity", "C#", "Notion"],
+        title: "\"Spaceshooter 2D\"",
+        image: "images/shooter.png",
+        alt: "Screenshot from the game \"Spaceshooter 2D\"",
+        description: "An incredible space world full of rebellious machines.A professional 2D experience.See what you can do.",
+        tools: ["Unity", "C#"],
         //  link: "project-bike.html"
-        link: "https://youtu.be/q9n3clmma_A"
+        link: ""
     },
     {
         title: "\"Deadline\"",
@@ -42,7 +42,7 @@ const projects = [
         description: "A timed puzzle game where you explore once to gather clues, then rush to execute a precise sequence before the clock hits zero to win.",
         tools: ["Unreal Engine", "C++"],
         //  link: "project-bike.html"
-        link: "https://www.youtube.com/watch?v=hFi-SDoRxiM"
+        link: ""
     },
     {
         title: "Running an internship",
@@ -51,17 +51,8 @@ const projects = [
         description: "I ran a game-development internship where we created two playable prototypes. The practice focused on rapid prototyping, and teamwork.",
         tools: ["Unity", "C#"],
         //  link: "project-bike.html"
-        link: "https://gry-eti.itch.io"
+        link: ""
     },
-    {
-        title: "Lyin' Jack",
-        image: "images/blackjack.png",
-        alt: "Screenshot from the game Lyin' Jack",
-        description: "A 2D Blackjack \"Balatro but it's blackjack and gambling\" styled card game prototype featuring hand crafted pixel art.",
-        tools: ["Unity", "C#", "WebGL"],
-        //  link: "project-blackjack.html"
-        link: "https://mcalmic.itch.io/lyin-jack"
-    }
 
 ];
 
